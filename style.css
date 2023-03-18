@@ -1,0 +1,46 @@
+.container{
+    margin-bottom: 100px;
+}
+.cbg{
+    background-image: url(hot-gadgets/bg-1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.cbg2{
+    background-image: url(hot-gadgets/bg-2.png);
+    background-position: bottom 0px left 0px;
+    background-repeat: no-repeat;
+}
+.buy-button{
+    color: white;
+    background-image: linear-gradient(to bottom, blue 0%, red 100%);
+    border-radius: 5px;
+}
+.kola{
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+}
+.mula{
+    border: none;
+    border-radius: 10px;
+}
+.ata{
+    box-shadow: 5px 5px 10px skyblue;
+    border-radius: 10px;
+}
+.dab{
+    margin-top: 180px;
+    font-size: 10px 10px 10px 10px;
+}
+.ho{
+    text-decoration: underline solid yellow 5px;
+    padding-bottom: 100px;
+}
+.vat{
+    box-shadow: 5px 5px 10px rgb(55, 70, 94);
+    border-radius: 20px;
+}
+.vorta{
+    margin: 210px 0px;
+}
